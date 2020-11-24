@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W8LS20664
   title: ཀི་ལྭེན་བྱིས་སྒྲུང་།
-  volume: ''
+  volume:
+    c469abcd82e34c2384a08c9bf4d59502:
+      image_group_id: I8LS20666
+      title: Volume 1 of ki l+'en byis sgrung /
+      volume_number: 1
+      total_pages: 222
   author: ''
+ebook_metadata:
+  title: ཀི་ལྭེན་བྱིས་སྒྲུང་།
+  author: ''
+  sku: P007977
+  cover: cover.jpg
+  layers:
+  - pagination
